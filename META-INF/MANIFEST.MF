@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: FibonacciClient
+Bundle-SymbolicName: dse.FibonacciClient2
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: dse.fibonacciclient.FibonacciActivator
+Bundle-Vendor: JAVAWORLD
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Import-Package: api,
+ org.osgi.framework;version="1.3.0"
