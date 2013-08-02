@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: FibonacciClient
-Bundle-SymbolicName: dse.FibonacciClient2
+Bundle-Name: FibonacciClientB
+Bundle-SymbolicName: dse.fibonacci.clientb
 Bundle-Version: 1.0.0.qualifier
 Bundle-Activator: dse.fibonacciclient.FibonacciActivator
 Bundle-Vendor: JAVAWORLD
